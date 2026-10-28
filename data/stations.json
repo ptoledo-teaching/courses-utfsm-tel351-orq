@@ -1,0 +1,26 @@
+[
+  {
+    "sectorId": "core",
+    "stationId": "coruscant-01",
+    "name": "Coruscant Central",
+    "status": "ACTIVE"
+  },
+  {
+    "sectorId": "core",
+    "stationId": "alderaan-01",
+    "name": "Alderaan Relay",
+    "status": "ACTIVE"
+  },
+  {
+    "sectorId": "outer-rim",
+    "stationId": "tatooine-01",
+    "name": "Tatooine Relay",
+    "status": "ACTIVE"
+  },
+  {
+    "sectorId": "outer-rim",
+    "stationId": "hoth-01",
+    "name": "Hoth Relay",
+    "status": "ACTIVE"
+  }
+]
